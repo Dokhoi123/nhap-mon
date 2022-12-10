@@ -1,0 +1,309 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "e85ef54e-0443-4800-9210-2a041d08497e",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Nhap mon",
+    "description": "",
+    "author": "",
+    "windowWidth": 1920,
+    "windowHeight": 1080,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0.2,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "authorIds": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/blue_button00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\blue_button00.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/blue_button01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\blue_button01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/blue_button01-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\blue_button01-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/blue_button01-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\blue_button01-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/grey_button00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\grey_button00.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/grey_button01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\grey_button01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "download.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "grass.jfif",
+        "kind": "image",
+        "metadata": "",
+        "name": "grass.jfif",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "co.jfif",
+        "kind": "image",
+        "metadata": "",
+        "name": "co.jfif",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rive2.jfif",
+        "kind": "image",
+        "metadata": "",
+        "name": "rive2.jfif",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "river.jfif",
+        "kind": "image",
+        "metadata": "",
+        "name": "river.jfif",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Spritesheet/river.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spritesheet\\river.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "river3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "river3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stone.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stone.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Request pack/sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Request pack\\sheet.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/green_button00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\green_button00.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/yellow_button00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\yellow_button00.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/red_button00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\red_button00.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/red_button01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\red_button01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/red_button11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\red_button11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/green_button01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\green_button01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/yellow_button01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\yellow_button01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/red_button12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\red_button12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PNG/green_button01-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PNG\\green_button01-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mucluc.pngjpg.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "mucluc.pngjpg.jpg",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-bat-dau-game"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/mc-lc"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/mn-1"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
